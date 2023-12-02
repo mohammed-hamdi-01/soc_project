@@ -1,0 +1,7 @@
+Django>=3.0,<4.0
+django-rest-framework
+axios
+celery
+redis
+psycopg2-binary
+gunicorn
